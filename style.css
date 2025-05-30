@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+}
+.main {
+  margin: 0 auto;
+  padding-top: 5rem;
+  width: fit-content;
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 0.5rem;
+}
+
+.item {
+  display: block;
+  width: 50px;
+  height: 50px;
+  background-color: black;
+}
